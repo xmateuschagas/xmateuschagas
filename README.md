@@ -54,31 +54,8 @@ Eu sou um Engenheiro de Software com um diferencial forte: trago mais de uma dé
 - Priorizo observabilidade com logs, métricas e testes automatizados para reduzir riscos.  
 - Documentação e handover claros com README, scripts de bootstrap e instruções de deploy.
 
-## Como executar (exemplo rápido)
-```bash
-# Clonar um projeto Python (ex: Chat_P2)
-git clone https://github.com/xmateuschagas/Chat_P2.git
-cd Chat_P2
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-# editar .env com variáveis (ex: REDIS_URL)
-uvicorn main:app --reload
-
-# Clonar um projeto Node (ex: APINodeMongo)
-git clone https://github.com/xmateuschagas/APINodeMongo.git
-cd APINodeMongo
-npm install
-# configurar .env com MONGO_URI
-npm start
-```
-
 ## Quer trabalhar comigo?
 Estou aberto a oportunidades em desenvolvimento backend, arquiteturas de SaaS, integrações e projetos que valorizem gestão técnica e entrega previsível.  
 Email: mateuschagas@id.uff.br  
 LinkedIn: https://www.linkedin.com/in/mateusbchagas?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-## Melhores práticas para o meu GitHub (minhas próximas ações)
-- Destacar 3 projetos no perfil com demos ao vivo quando possível.  
-- Atualizar READMEs dos projetos com passos de execução e screenshots.  
-- Incluir badges de CI e cobertura onde aplicável.
