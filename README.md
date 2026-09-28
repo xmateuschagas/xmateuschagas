@@ -4,51 +4,51 @@
 
 ## Sobre mim
 
-Engenheiro de Software e fundador da **MicrotecON Sistemas Inteligentes**. Construo sistemas que rodam em produção de verdade: PDV offline-first, integrações de pagamento e infraestrutura conteinerizada para clientes reais.
+Engenheiro de Software e fundador da **MicrotecON Sistemas Inteligentes**. Projeto e coloco em produção sistemas comerciais completos: aplicação embarcada, backend em nuvem, integração de pagamentos e painel administrativo, do levantamento de requisitos com o cliente até a operação em campo.
 
-Antes do software, passei mais de dez anos com infraestrutura de TI, redes, segurança eletrônica e gestão de projetos em campo. Isso me deu uma forma de trabalhar que levo para o código: diagnóstico pela causa raiz, decisão baseada em evidência e entrega previsível, conversando direto com o cliente do levantamento de requisitos até o deploy.
+Meu produto principal, o **PeguePagON**, é um PDV autônomo offline-first que roda em produção sem atendente, com pagamento integrado, balança, impressora térmica e monitoramento remoto.
 
-## O que eu construo
+Antes do software, foram mais de dez anos em infraestrutura de TI, redes e gestão de projetos. Essa bagagem define como eu trabalho: diagnóstico pela causa raiz, decisão baseada em evidência e entrega previsível.
 
-- **Aplicações mobile e web** em Flutter, com arquitetura offline-first e sincronização em nuvem
-- **APIs REST e tempo real** em Node.js (Express, Socket.IO) com autenticação JWT
-- **Infraestrutura self-hosted** com Docker Compose, Nginx, PostgreSQL e Redis
-- **Modelagem de dados** relacional (MySQL, PostgreSQL) e NoSQL (MongoDB, Firestore, Hive)
+## Stack principal
 
-## Stack
-
-[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://reactnative.dev)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)](https://n8n.io)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
+
+## O que eu construo
+
+- **Aplicações mobile e embarcadas** em Flutter com arquitetura offline-first, MVVM e bridges nativas em Kotlin
+- **Frontends web** em React e TypeScript para painéis administrativos e gestão
+- **APIs e serviços** em Node.js: REST, WebSocket, webhooks com validação e idempotência
+- **Infraestrutura** com Docker, Firebase e bancos relacionais e NoSQL
 
 ## Projetos em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **PDV Padaria** *(código privado, em produção)* | PDV offline-first para padarias com PIX, impressão térmica e painel web | Flutter, Hive, Firestore |
-| **MAG FileServer** *(código privado, cliente corporativo)* | Servidor de arquivos self-hosted com proxy reverso e backup | Docker Compose, Nextcloud, PostgreSQL, Redis, Nginx |
-| [**Clima**](https://github.com/xmateuschagas/clima) | App de previsão do tempo com custom hooks e UI responsiva | React Native, Expo, TypeScript |
-| [**API de Tarefas**](https://github.com/xmateuschagas/APINodeMongo) | API REST com access/refresh token e validação de entrada | Node.js, Express, MongoDB, JWT, Zod |
-| [**Chat em Tempo Real**](https://github.com/xmateuschagas/FullStP1) | Chat com salas, WebSocket autenticado e persistência poliglota | Node.js, Socket.IO, MySQL, MongoDB |
-| [**TechMaricá DB**](https://github.com/xmateuschagas/TechMarica-Banco-de-Dados) | Modelagem de controle de produção com trigger, procedure e view | MySQL |
+| [**PeguePagON**](https://github.com/xmateuschagas/peguepagon-showcase) | PDV autônomo offline-first em produção, com pagamento integrado, balança, impressão térmica e painel web | Flutter, Kotlin, Hive, Firestore, React |
+| [**Clima**](https://github.com/xmateuschagas/clima) | App de previsão do tempo com custom hooks, tipagem estrita e UI responsiva | React Native, Expo, TypeScript |
+| [**APINodeMongo**](https://github.com/xmateuschagas/APINodeMongo) | API REST com access e refresh token, validação de entrada e isolamento de dados por usuário | Node.js, Express, Zod, JWT, MongoDB |
+| [**FullStP1**](https://github.com/xmateuschagas/FullStP1) | Chat em tempo real com salas, WebSocket autenticado e persistência híbrida | Node.js, Socket.IO, MySQL, MongoDB |
+| [**TechMarica-Banco-de-Dados**](https://github.com/xmateuschagas/TechMarica-Banco-de-Dados) | Engenharia de dados em SQL: modelagem relacional com trigger, procedure, view e consultas analíticas | MySQL |
 
 ## Como eu trabalho
 
-- Entrego em ciclos curtos: MVP, validação com o cliente e refinamento.
-- Documentação clara: README, variáveis de ambiente e passo a passo de deploy.
-- Segurança desde o início: segredos fora do repositório e dados isolados por usuário.
+- Ciclos curtos: MVP, validação com o cliente e refinamento com dados reais de produção.
+- Confiabilidade primeiro: tolerância a falhas, testes nos pontos críticos e monitoramento.
+- Documentação que outra pessoa consegue seguir: README, variáveis de ambiente e deploy.
 
 ## Contato
 
-Aberto a oportunidades em desenvolvimento backend, mobile e full stack.
+Aberto a oportunidades em Engenharia de Software (full stack, mobile e backend).
 [LinkedIn](https://www.linkedin.com/in/mateusbchagas) · [mateuschagas@id.uff.br](mailto:mateuschagas@id.uff.br)
