@@ -1,61 +1,54 @@
 # Mateus Chagas | Engenheiro de Software
 
-[![Website](https://img.shields.io/badge/Portfolio-Visitar-blue?logo=github&logoColor=white)](https://xmateuschagas.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusbchagas?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Email](https://img.shields.io/badge/Email-mateuschagas%40id.uff.br-red?logo=gmail&logoColor=white)](mailto:mateuschagas@id.uff.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusbchagas) [![Email](https://img.shields.io/badge/Email-mateuschagas%40id.uff.br-EA4335?logo=gmail&logoColor=white)](mailto:mateuschagas@id.uff.br)
 
-## Quem eu sou
-Eu sou um Engenheiro de Software com um diferencial forte: trago mais de uma década de experiência em gestão de projetos, controle de cronograma e liderança. Sei que a atuação de vocês envolve desde a concepção de SaaS até IA e integrações. Minha bagagem me permite não apenas atuar tecnicamente, usando Python, SQL e boas práticas de codificação, mas também ter uma visão madura sobre o ciclo de vida do produto. Faço levantamento de requisitos ponta a ponta com o cliente e garanto que a comunicação flua entre design, negócios e tecnologia. Meu foco é entregar software que resolva problemas reais de forma estruturada e previsível.
+## Sobre mim
 
-## Habilidades principais
-- Arquitetura e entrega de software (SaaS, APIs, aplicações em tempo real)  
-- Desenvolvimento backend: design de APIs, autenticação e integração de serviços  
-- Banco de dados: SQL (modelagem e queries) e NoSQL (MongoDB)  
-- Integração e mensageria: Redis, filas e WebSockets  
-- Boas práticas: testes, versionamento, revisão de código e CI/CD  
-- Gestão: planejamento, estimativas, coordenação entre times e stakeholders
+Engenheiro de Software e fundador da **MicrotecON Sistemas Inteligentes**. Construo sistemas que rodam em produção de verdade: PDV offline-first, integrações de pagamento e infraestrutura conteinerizada para clientes reais.
 
-## Tech stack & ferramentas
-<!-- Badges como "botões" visuais -->
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org) 
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) 
-[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com) 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org) 
-[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://expressjs.com)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
-[![Postgres](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org) 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com) 
-[![Redis](https://img.shields.io/badge/Redis-D7263D?logo=redis&logoColor=white)](https://redis.io)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com) 
-[![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?logo=github&logoColor=white)](https://github.com/features/actions)
+Antes do software, passei mais de dez anos com infraestrutura de TI, redes, segurança eletrônica e gestão de projetos em campo. Isso me deu uma forma de trabalhar que levo para o código: diagnóstico pela causa raiz, decisão baseada em evidência e entrega previsível, conversando direto com o cliente do levantamento de requisitos até o deploy.
 
-## O que eu construo / exemplos rápidos
-- APIs REST e microserviços em Node.js e FastAPI, com integração a bancos e autenticação.  
-- Aplicações em tempo real, por exemplo chat com Redis e WebSockets.  
-- Sites estáticos e portfólios hospedados em GitHub Pages.  
-- Modelagem de dados e consultas otimizadas em Postgres e MongoDB.
+## O que eu construo
 
-## Projetos destacados
-- Chat (FastAPI + Redis) — aplicação de chat em tempo real.  
-  https://github.com/xmateuschagas/Chat  
-- APINodeMongo — API em Node conectada a MongoDB.  
-  https://github.com/xmateuschagas/APINodeMongo  
-- clima / site_clima — demonstrações com APIs de clima (front + back).  
-  https://github.com/xmateuschagas/clima  
-  https://github.com/xmateuschagas/site_clima  
-- xmateuschagas.github.io — portfólio e página pessoal.  
-  https://github.com/xmateuschagas/xmateuschagas.github.io  
-- TechMarica-Banco-de-Dados — modelagem e scripts de banco de dados.  
-  https://github.com/xmateuschagas/TechMarica-Banco-de-Dados
+- **Aplicações mobile e web** em Flutter, com arquitetura offline-first e sincronização em nuvem
+- **APIs REST e tempo real** em Node.js (Express, Socket.IO) com autenticação JWT
+- **Infraestrutura self-hosted** com Docker Compose, Nginx, PostgreSQL e Redis
+- **Modelagem de dados** relacional (MySQL, PostgreSQL) e NoSQL (MongoDB, Firestore, Hive)
 
-(Consulte os READMEs de cada repositório para instruções de execução.)
+## Stack
+
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://reactnative.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)](https://n8n.io)
+
+## Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| **PDV Padaria** *(código privado, em produção)* | PDV offline-first para padarias com PIX, impressão térmica e painel web | Flutter, Hive, Firestore |
+| **MAG FileServer** *(código privado, cliente corporativo)* | Servidor de arquivos self-hosted com proxy reverso e backup | Docker Compose, Nextcloud, PostgreSQL, Redis, Nginx |
+| [**Clima**](https://github.com/xmateuschagas/clima) | App de previsão do tempo com custom hooks e UI responsiva | React Native, Expo, TypeScript |
+| [**API de Tarefas**](https://github.com/xmateuschagas/APINodeMongo) | API REST com access/refresh token e validação de entrada | Node.js, Express, MongoDB, JWT, Zod |
+| [**Chat em Tempo Real**](https://github.com/xmateuschagas/FullStP1) | Chat com salas, WebSocket autenticado e persistência poliglota | Node.js, Socket.IO, MySQL, MongoDB |
+| [**TechMaricá DB**](https://github.com/xmateuschagas/TechMarica-Banco-de-Dados) | Modelagem de controle de produção com trigger, procedure e view | MySQL |
 
 ## Como eu trabalho
-- Entrego iterativamente: backlog, MVP, validação com stakeholders e refinamento.  
-- Priorizo observabilidade com logs, métricas e testes automatizados para reduzir riscos.  
-- Documentação e handover claros com README, scripts de bootstrap e instruções de deploy.
 
-## Quer trabalhar comigo?
-Estou aberto a oportunidades em desenvolvimento backend, arquiteturas de SaaS, integrações e projetos que valorizem gestão técnica e entrega previsível.  
-Email: mateuschagas@id.uff.br  
-LinkedIn: https://www.linkedin.com/in/mateusbchagas?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Entrego em ciclos curtos: MVP, validação com o cliente e refinamento.
+- Documentação clara: README, variáveis de ambiente e passo a passo de deploy.
+- Segurança desde o início: segredos fora do repositório e dados isolados por usuário.
 
+## Contato
+
+Aberto a oportunidades em desenvolvimento backend, mobile e full stack.
+[LinkedIn](https://www.linkedin.com/in/mateusbchagas) · [mateuschagas@id.uff.br](mailto:mateuschagas@id.uff.br)
